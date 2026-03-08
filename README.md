@@ -51,6 +51,19 @@ My work focuses on **GenAI applications, agentic workflows, and intelligent deve
 
 # 🚀 Featured Projects
 
+## 🤖 AI Legacy Modernizer – Multi-Agent RAG Platform
+
+GitHub:  
+https://github.com/Aditya03hk/Legacy_Modernizer
+
+- Built an AI-powered legacy code modernization platform using a multi-agent architecture.
+
+- Implemented document-driven RAG architecture using LangChain + FAISS to generate system docs, architecture designs, migration plans, security models, and testing strategies.
+
+- Developed a FastAPI backend with Streamlit interface to ingest repositories (GitHub/local) and generate modernization-ready code with validation and auto-fix loops.
+
+---
+
 ## 🧠 Decoding Imagined Speech (Brain Computer Interface)
 
 GitHub:  
