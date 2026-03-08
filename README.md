@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aditya Keshav Harikantra
+# Hi 👋 I'm Aditya Harikantra
 
 🚀 **AI Systems Engineer | GenAI | Cloud | Full-Stack Developer**  
 💼 **System Engineer @ Tata Consultancy Services (TCS)**  
