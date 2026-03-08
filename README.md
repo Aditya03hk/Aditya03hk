@@ -2,7 +2,7 @@
 
 🚀 **AI Systems Engineer | GenAI | Cloud | Full-Stack Developer**  
 💼 **System Engineer @ Tata Consultancy Services (TCS)**  
-🎓 B.E. Electronics & Communication Engineering – Siddaganga Institute of Technology  
+🎓 B.E - Electronics & Communication Engineering – Siddaganga Institute of Technology  
 
 I build **AI-powered systems that combine LLMs, cloud infrastructure, and real-world data pipelines**.  
 My work focuses on **GenAI applications, agentic workflows, and intelligent developer platforms**.
@@ -109,7 +109,7 @@ Retrieval Augmented Generation (RAG)
 LangChain  
 Agentic AI  
 
-## Backend / Full Stack
+## Full Stack
 Node.js  
 Angular  
 REST APIs  
@@ -139,14 +139,6 @@ Git
 GitHub  
 VS Code  
 MATLAB  
-
----
-
-# 🏫 Education
-
-**Siddaganga Institute of Technology, Tumkur**  
-B.E. Electronics & Communication Engineering  
-CGPA: **8.54**
 
 ---
 
