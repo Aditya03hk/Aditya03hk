@@ -96,52 +96,6 @@ https://github.com/Aditya03hk/Qtrip_dynamicc
 
 ---
 
-# 🛠 Tech Stack
-
-## Languages
-Python • C • C++ • JavaScript
-
-## AI / Machine Learning
-Machine Learning  
-Generative AI  
-Large Language Models (LLMs)  
-Retrieval Augmented Generation (RAG)  
-LangChain  
-Agentic AI  
-
-## Full Stack
-Node.js  
-Angular  
-REST APIs  
-Full-Stack Development  
-
-## Databases
-SQL  
-MySQL  
-SQLite  
-
-## Cloud / DevOps
-AWS  
-Microsoft Azure  
-Docker  
-Kubernetes  
-CI/CD Pipelines  
-GitHub Actions  
-LLMOps  
-
-## Observability & Platforms
-Datadog  
-Kong Gateway  
-JFrog Artifactory  
-
-## Developer Tools
-Git  
-GitHub  
-VS Code  
-MATLAB  
-
----
-
 # 📫 Connect With Me
 
 📧 Email: adityaharikantra9@gmail.com  
