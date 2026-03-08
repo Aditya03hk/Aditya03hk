@@ -1,16 +1,163 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Keshav Harikantra
 
-<!--
-**Aditya03hk/Aditya03hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Systems Engineer | GenAI | Cloud | Full-Stack Developer**  
+💼 **System Engineer @ Tata Consultancy Services (TCS)**  
+🎓 B.E. Electronics & Communication Engineering – Siddaganga Institute of Technology  
 
-Here are some ideas to get you started:
+I build **AI-powered systems that combine LLMs, cloud infrastructure, and real-world data pipelines**.  
+My work focuses on **GenAI applications, agentic workflows, and intelligent developer platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 About Me
+
+- 🤖 Building **LLM-driven applications and RAG systems**
+- ☁️ Working with **AWS, Kubernetes, and cloud observability tools**
+- 🧩 Creating **AI-powered developer tools and automation systems**
+- 🧪 Exploring **Neurotechnology, Brain–Computer Interfaces, and AI**
+- 🛠 Passionate about **building real-world AI products**
+
+---
+
+# 💼 Experience
+
+## System Engineer — Tata Consultancy Services  
+📍 Sept 2025 – Present  
+
+- Built an **LLM-driven pipeline** to auto-collect project data using dynamic forms and JIRA-based field extraction.
+- Developed a **RAG-powered chatbot** using **LangChain + FAISS** for querying project information.
+- Implemented **agentic workflows and validation layers** for reliable information retrieval.
+- Integrated **AWS infrastructure metrics and logs with Datadog** for monitoring and observability.
+- Resolved **Kubernetes pod rescheduling issues**, improving cluster stability.
+- Evaluated **LightLLM for high-performance LLM inference** to optimize AI workloads.
+
+---
+
+## Project Intern — Tata Consultancy Services  
+📍 Mar 2025 – Jun 2025  
+
+### AWS Log Chatbot
+- Built an **AI chatbot that answers natural language queries about AWS logs**.
+- Implemented **hybrid architecture combining SQL query generation + RAG search**.
+- Created a **Streamlit dashboard with SQLite backend and Groq LLM integration**.
+- Simulated realistic log data for testing and analysis.
+
+### Design to Angular Converter
+- Developed a **multimodal AI system converting Figma, text, and voice into Angular apps**.
+- Integrated **Gemini AI for code generation and memory-based learning**.
+- Built a **Node.js/Express backend with job queues and real-time progress tracking**.
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Decoding Imagined Speech (Brain Computer Interface)
+
+GitHub:  
+https://github.com/Aditya03hk/Decoding_Imagined_speech-EEG_Based
+
+- Developed a **BCI system to decode imagined speech using EEG signals**.
+- Applied **ICA filtering to remove artifacts and enhance signal clarity**.
+- Implemented **Machine Learning models (SVM & LSTM)** for word classification.
+- Demonstrates potential applications in **assistive communication technologies**.
+
+---
+
+## ☁️ AWS Logs Analyst
+
+GitHub:  
+https://github.com/Aditya03hk/Log_Chatbot
+
+- AI system that analyzes **cloud logs using natural language queries**.
+- Hybrid **SQL + Vector Search architecture**.
+- Built with **Streamlit, FAISS, LangChain, and LLMs**.
+
+---
+
+## 🎨 Design to Angular Converter
+
+GitHub:  
+https://github.com/Aditya03hk/Angular_Converter
+
+- Converts **Figma designs, text descriptions, and voice inputs into Angular apps**.
+- Supports **routing, forms, and standalone components**.
+- Backend powered by **Node.js, Gemini AI, and job queues**.
+
+---
+
+## 🌍 QTrip Travel Website
+
+GitHub:  
+https://github.com/Aditya03hk/Qtrip_dynamicc
+
+- Responsive travel recommendation website.
+- Built using **HTML, CSS, JavaScript**.
+- Allows users to **discover and filter travel destinations**.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+Python • C • C++ • JavaScript
+
+## AI / Machine Learning
+Machine Learning  
+Generative AI  
+Large Language Models (LLMs)  
+Retrieval Augmented Generation (RAG)  
+LangChain  
+Agentic AI  
+
+## Backend / Full Stack
+Node.js  
+Angular  
+REST APIs  
+Full-Stack Development  
+
+## Databases
+SQL  
+MySQL  
+SQLite  
+
+## Cloud / DevOps
+AWS  
+Microsoft Azure  
+Docker  
+Kubernetes  
+CI/CD Pipelines  
+GitHub Actions  
+LLMOps  
+
+## Observability & Platforms
+Datadog  
+Kong Gateway  
+JFrog Artifactory  
+
+## Developer Tools
+Git  
+GitHub  
+VS Code  
+MATLAB  
+
+---
+
+# 🏫 Education
+
+**Siddaganga Institute of Technology, Tumkur**  
+B.E. Electronics & Communication Engineering  
+CGPA: **8.54**
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: adityaharikantra9@gmail.com  
+🌐 Portfolio: https://adityahkportfolio.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/adityaharikantra  
+💻 GitHub: https://github.com/Aditya03hk  
+🧠 LeetCode: https://leetcode.com/Aditya03hk  
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories!
